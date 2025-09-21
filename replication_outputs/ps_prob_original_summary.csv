@@ -1,0 +1,8 @@
+"  variable","    prior","  likelihood"," diagnosis"
+"Length:631        ","Min.   :0.004512  ","Min.   :0.004658  ","Length:631        "
+"Class :character  ","1st Qu.:0.016374  ","1st Qu.:0.016452  ","Class :character  "
+"Mode  :character  ","Median :0.071606  ","Median :0.045226  ","Mode  :character  "
+NA,"Mean   :0.094054  ","Mean   :0.063115  ",NA
+NA,"3rd Qu.:0.159341  ","3rd Qu.:0.094448  ",NA
+NA,"Max.   :0.466591  ","Max.   :0.259401  ",NA
+NA,"NA's   :11  ","NA's   :11  ",NA
